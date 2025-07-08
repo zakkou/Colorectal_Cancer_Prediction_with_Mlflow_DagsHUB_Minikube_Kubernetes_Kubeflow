@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/GIGABYTE/Desktop/Projects%20MLOPS/Colorectal%20Cancer%20Prediction%20with%20Mlflow%2BDagsHUB%20%2CMinikube%20Kubernetes%20%26%20Kubeflow/mlruns/0/ef2bf4f039d5460da177b34453542029/artifacts
+end_time: 1751994657435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef2bf4f039d5460da177b34453542029
+run_name: debonair-newt-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751994646760
+status: 3
+tags: []
+user_id: GIGABYTE
