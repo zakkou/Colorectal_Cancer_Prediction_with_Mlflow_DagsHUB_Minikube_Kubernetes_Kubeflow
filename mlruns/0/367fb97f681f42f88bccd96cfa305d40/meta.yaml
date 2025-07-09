@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GIGABYTE/Desktop/Projects%20MLOPS/Colorectal%20Cancer%20Prediction%20with%20Mlflow%2BDagsHUB%20%2CMinikube%20Kubernetes%20%26%20Kubeflow/mlruns/0/367fb97f681f42f88bccd96cfa305d40/artifacts
+end_time: 1752014068836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 367fb97f681f42f88bccd96cfa305d40
+run_name: ambitious-lark-363
+run_uuid: 367fb97f681f42f88bccd96cfa305d40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752014058339
+status: 3
+tags: []
+user_id: GIGABYTE

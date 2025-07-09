@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GIGABYTE/Desktop/Projects%20MLOPS/Colorectal%20Cancer%20Prediction%20with%20Mlflow%2BDagsHUB%20%2CMinikube%20Kubernetes%20%26%20Kubeflow/mlruns/0/67556fcc36cb4191b601b9a03e6a09ab/artifacts
+end_time: 1752013958131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67556fcc36cb4191b601b9a03e6a09ab
+run_name: smiling-doe-835
+run_uuid: 67556fcc36cb4191b601b9a03e6a09ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752013947840
+status: 3
+tags: []
+user_id: GIGABYTE
